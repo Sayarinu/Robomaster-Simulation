@@ -42,8 +42,8 @@ public class SentryMovement : MonoBehaviour
 
     }
 
-     Vector3 pointA = new Vector3((float)-1.55, (float)1.19, (float)-2.9);
-     Vector3 pointB = new Vector3((float)-2.7, (float)1.19, (float)-1.739);
+     Vector3 pointA = new Vector3((float)-2.90, (float)1.52, (float)-1.70);
+     Vector3 pointB = new Vector3((float)-1.65, (float)1.52, (float)-2.97);
     // Update is called once per frame
     void Update()
     {
