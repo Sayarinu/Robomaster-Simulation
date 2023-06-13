@@ -1,4 +1,4 @@
 # Robomaster-Simulation
-NYU Ultraviolet Robomaster Simulation
+NYU Ultraviolet Robomaster Simulation in Unity
 
-jhchkjxz
+Used to prepare for the official Robomaster NA competition
